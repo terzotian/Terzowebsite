@@ -242,6 +242,7 @@ const translations: Record<Language, Record<string, string>> = {
     'resume.work2.company': 'Bank of Communications, Zhuhai',
     'resume.work2.b1':
       'Organized customers’ information and materials and inputted them into the bank’s computer system.',
+    'resume.cvPreview': 'Preview CV',
     'resume.work3.title': 'Intern',
     'resume.work3.company': 'Zhuhai New Horizon Communication Development Co., Ltd.',
     'resume.work3.b1':
@@ -479,6 +480,7 @@ const translations: Record<Language, Record<string, string>> = {
     'resume.work2.title': '客户经理助理',
     'resume.work2.company': '交通银行（珠海）',
     'resume.work2.b1': '整理客户信息与材料，并录入银行系统。',
+    'resume.cvPreview': '预览简历',
     'resume.work3.title': '实习生',
     'resume.work3.company': 'Zhuhai New Horizon Communication Development Co., Ltd.',
     'resume.work3.b1': '审核并处理订单，跟踪更新订单状态，记录交易信息。',
